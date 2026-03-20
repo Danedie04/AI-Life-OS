@@ -18,7 +18,7 @@
 
 <br/>
 
-[**Live Demo**](#) · [**Screenshots**](#-screenshots) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started)
+[**Live Demo**](https://github.com/Danedie04/AI-Life-OS/blob/main/Screenshot/Overview.png) · [**Screenshots**](#-screenshots) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started)
 
 </div>
 
@@ -42,26 +42,15 @@ Built with **Flutter**, powered by **Claude claude-sonnet-4**, and designed to f
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/220x476/0D0D1A/7B6EF6?text=Home+Dashboard" alt="Home Screen" width="200" style="border-radius:20px;"/>
-      <br/><sub><b>🏠 Home Dashboard</b></sub>
+    <td align="center" width="1000" height="900">
+      <img src="https://github.com/Danedie04/AI-Life-OS/blob/main/Screenshot/Overview.png"/>
+      <br/><sub><b>🏠 Complete overview </b></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/220x476/0D0D1A/06B6D4?text=AI+Chat" alt="Chat Screen" width="200" style="border-radius:20px;"/>
-      <br/><sub><b>◈ AI Chat</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/220x476/0D0D1A/10B981?text=Memory+Brain" alt="Memory Screen" width="200" style="border-radius:20px;"/>
-      <br/><sub><b>🧠 Second Brain</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/220x476/0D0D1A/F59E0B?text=Tasks+%26+Habits" alt="Tasks Screen" width="200" style="border-radius:20px;"/>
-      <br/><sub><b>◫ Tasks & Habits</b></sub>
-    </td>
+   
   </tr>
 </table>
 
-> 🖼️ **[View full visual canvas →](screenshots.html)**
+> 🖼️ **[View full visual canvas →](https://github.com/Danedie04/AI-Life-OS/blob/main/Screenshot/ai_life_os_canvas%20(1).html)**
 
 </div>
 
