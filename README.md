@@ -391,7 +391,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 *If this project helped you, please consider giving it a ⭐*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai_life_os?style=social)](https://github.com/yourusername/ai_life_os)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai_life_os?style=social)](https://github.com/Danedie04)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B6EF6&height=100&section=footer" alt="footer"/>
 
